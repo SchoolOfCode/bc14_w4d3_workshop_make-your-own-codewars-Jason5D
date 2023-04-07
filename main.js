@@ -1,11 +1,11 @@
 /* 
 Frogland
 
-        In Frogland there are a diverse range of frogs. Due to the perfect climate conditions they thrive, BUT
+        In Frogland there are a diverse range of frogs. Due to the excellent climate conditions they thrive, BUT
     there is one challenge the frogs must face each year.
 
         The frogs must cross Frogland to access richer ponds as the season changes. On this path are THREE rivers
-    the frogs must cross to survive the rest of the year, and it is up to you to calculate HOW MANY FROGS REMAIN
+    the frogs must cross to survive the rest of the year, and it is up to you to calculate HOW MANY FROGS SURVIVE
     from this tortuous journey.
 
         Each type of frog has evolved differently, therefore they have different strengths at swimming. This means
@@ -23,9 +23,9 @@ Frogland
         Now you know your frogs, given a random number of Brown, Green and Golden frogs, calculate how many survive
     the crossing of the three rivers.
 
-        No half frogs survive, so if your TOTAL number comes to a floating point, it should be rounded up to an
-        integer as that partial frog will not survive. There will alway at least 1 or each frog type and there are
-        no negative frogs.
+        No half frogs survive, so if your TOTAL DIED number comes to a floating point, it should be rounded up to an
+    integer as that partial frog will not survive. There will always be at least 1 of each frog type and there are
+    no negative frogs.
 */
 
 //👉 Write the function your CodeWarriors will start with below here:
